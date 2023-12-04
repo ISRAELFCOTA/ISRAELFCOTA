@@ -14,7 +14,7 @@ Gostou? vamos conversar!
 
 E-mail: israelf.cota1203@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/israel-fernandes-cota-256157221/</p>
-
+&nbsp;&nbsp;&nbsp;
 
 ## My Skills
 
