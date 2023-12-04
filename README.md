@@ -1,5 +1,19 @@
+## Hello World, Meu nome é Israel! 👋
+&nbsp;
 
-&nbsp;&nbsp;&nbsp;
+<p>Olá! Sejam bem-vindos! Me chamo Israel e sou desenvolvedor web.
+Formação acadêmica técnico em Informática pelo Senac Minas, e atualmente estou cursando a graduação de Ciência da computação.
+
+Estou tendo o inicio da carreira em programação como estagiário, e quero alcançar novas experiencias e desenvolver ainda mais a habilidade da programação. Sou uma pessoa que ama programação desde que tive contato, vendo amigos programarem exercícios escolares, e daí veio meu interesse pela área. Comecei a aprender programação sozinho quando estive no ensino médio, aonde fazia algoritmos simples para resolver exercícios matemáticos.
+
+Atualmente estou tendo a oportunidade de estagiar e desenvolver minhas habilidades como dev utilizando a linguagem php e mysql, trabalhando mais pelo lado do back-end, mas também desenvolvendo um pouco do front-end. Dessas tecnologias uso para contribuir em minha empresa e também para adquirir mais e mais experiência nesse amplo mercado de trabalho.
+
+Além da programação, gosto de ter como hobbie a música, sou músico a 5 anos, e atualmente toco Trompete e violão, também gosto bastante de cantar e escrever!
+
+Gostou? vamos conversar!
+
+E-mail: israelf.cota1203@gmail.com
+Linkedin: https://www.linkedin.com/in/israel-fernandes-cota-256157221/</p>
 
 
 ## My Skills
