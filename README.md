@@ -12,7 +12,7 @@ Além da programação, gosto de ter como hobbie a música, sou músico a 5 anos
 
 Gostou? vamos conversar!
 
-E-mail: israelf.cota1203@gmail.com
+E-mail: israelf.cota1203@gmail.com <br>
 Linkedin: https://www.linkedin.com/in/israel-fernandes-cota-256157221/</p>
 
 
